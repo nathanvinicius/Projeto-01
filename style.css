@@ -1,0 +1,28 @@
+.d-flex{
+    margin: 10px;
+}
+
+
+.i{
+    margin: 10px;
+    background-color: rgb(214, 212, 212);
+    align-items: center;
+    text-align: center;
+    
+} 
+
+.imagem_produto{
+    width: 2px;
+    
+}
+
+.j{
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+    
+} 
+
+body{
+    background-color: rgb(247,248,250);
+}
